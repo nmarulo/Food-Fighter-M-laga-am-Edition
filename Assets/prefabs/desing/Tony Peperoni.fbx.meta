@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: 920e163572c954347b14cdae326dd425
+timeCreated: 1468144067
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bone
+    100004: Bone.001
+    100006: Bone.001_end
+    100008: Bone_end
+    100010: Brazo.L
+    100012: Brazo.L.001
+    100014: Brazo.L.003
+    100016: Brazo.R
+    100018: Brazo.R.001
+    100020: Brazo.R.002
+    100022: Columna
+    100024: Columna.001
+    100026: Columna.002
+    100028: Columna.003
+    100030: Columna.004
+    100032: Columna.005
+    100034: Columna.006
+    100036: Columna.006_end
+    100038: Dedo.L
+    100040: Dedo.L.001
+    100042: Dedo.L.001_end
+    100044: Dedo.R
+    100046: Dedo.R.001
+    100048: Dedo.R.001_end
+    100050: IK_Pole_Brazo.L
+    100052: IK_Pole_Brazo.L_end
+    100054: IK_Pole_Brazo.R
+    100056: IK_Pole_Brazo.R_end
+    100058: IK_Pole_Pierna.L
+    100060: IK_Pole_Pierna.L_end
+    100062: IK_Pole_Pierna.R
+    100064: IK_Pole_Pierna.R_end
+    100066: IK_Target_Brazo.L
+    100068: IK_Target_Brazo.L_end
+    100070: IK_Target_Brazo.R
+    100072: IK_Target_Brazo.R_end
+    100074: IK_Target_Pierna.L
+    100076: IK_Target_Pierna.L_end
+    100078: IK_Target_Pierna.R
+    100080: IK_Target_Pierna.R_end
+    100082: Mano.L
+    100084: Mano.L.001
+    100086: Mano.L.001_end
+    100088: Mano.R
+    100090: Mano.R.001
+    100092: Mano.R.001_end
+    100094: Peperoni.003
+    100096: Pie.L
+    100098: Pie.L.001
+    100100: Pie.L.001_end
+    100102: Pie.R
+    100104: Pie.R.001
+    100106: Pie.R.001_end
+    100108: Pierna.L
+    100110: Pierna.L.001
+    100112: Pierna.L.002
+    100114: Pierna.R
+    100116: Pierna.R.001
+    100118: Pierna.R.002
+    100120: //RootNode
+    400000: Armature
+    400002: Bone
+    400004: Bone.001
+    400006: Bone.001_end
+    400008: Bone_end
+    400010: Brazo.L
+    400012: Brazo.L.001
+    400014: Brazo.L.003
+    400016: Brazo.R
+    400018: Brazo.R.001
+    400020: Brazo.R.002
+    400022: Columna
+    400024: Columna.001
+    400026: Columna.002
+    400028: Columna.003
+    400030: Columna.004
+    400032: Columna.005
+    400034: Columna.006
+    400036: Columna.006_end
+    400038: Dedo.L
+    400040: Dedo.L.001
+    400042: Dedo.L.001_end
+    400044: Dedo.R
+    400046: Dedo.R.001
+    400048: Dedo.R.001_end
+    400050: IK_Pole_Brazo.L
+    400052: IK_Pole_Brazo.L_end
+    400054: IK_Pole_Brazo.R
+    400056: IK_Pole_Brazo.R_end
+    400058: IK_Pole_Pierna.L
+    400060: IK_Pole_Pierna.L_end
+    400062: IK_Pole_Pierna.R
+    400064: IK_Pole_Pierna.R_end
+    400066: IK_Target_Brazo.L
+    400068: IK_Target_Brazo.L_end
+    400070: IK_Target_Brazo.R
+    400072: IK_Target_Brazo.R_end
+    400074: IK_Target_Pierna.L
+    400076: IK_Target_Pierna.L_end
+    400078: IK_Target_Pierna.R
+    400080: IK_Target_Pierna.R_end
+    400082: Mano.L
+    400084: Mano.L.001
+    400086: Mano.L.001_end
+    400088: Mano.R
+    400090: Mano.R.001
+    400092: Mano.R.001_end
+    400094: Peperoni.003
+    400096: Pie.L
+    400098: Pie.L.001
+    400100: Pie.L.001_end
+    400102: Pie.R
+    400104: Pie.R.001
+    400106: Pie.R.001_end
+    400108: Pierna.L
+    400110: Pierna.L.001
+    400112: Pierna.L.002
+    400114: Pierna.R
+    400116: Pierna.R.001
+    400118: Pierna.R.002
+    400120: //RootNode
+    4300000: Peperoni.003
+    7400000: Armature|Correr
+    7400002: Armature|Disparar
+    7400004: Armature|Idle
+    7400006: Armature|Saltar
+    7400008: Peperoni.003|Correr
+    9500000: //RootNode
+    13700000: Peperoni.003
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
